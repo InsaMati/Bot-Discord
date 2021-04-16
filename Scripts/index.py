@@ -80,6 +80,6 @@ async def on_ready():
     print('My bot is ready')
 
 
-# Fiumba
+# Heroku
 
 bot.run(TOKEN)

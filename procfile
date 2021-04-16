@@ -1,1 +1,1 @@
-worker: python Scripts\index.py
+worker: python index.py

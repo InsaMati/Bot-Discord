@@ -12,6 +12,8 @@ from urllib import parse, request
 intents = discord.Intents.default()
 intents.members = True
 
+-- python
+
 load_dotenv()
 TOKEN = os.getenv('Discord_Token')
 
